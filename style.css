@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.personObj{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    column-gap: 10%;
+    align-items: center;
+    border: 1px solid;
+}
+.personObj img{
+    max-width: 50%;
+}
